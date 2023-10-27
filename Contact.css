@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit&display=swap');
+
+.contactInfo {
+    padding: 0 30px;
+    padding-top: 100px;
+}
+
+.contactInfo h1 {
+    font-family: 'Kanit', sans-serif;
+    text-align: center;
+    padding: 12px 0;
+}
+
+.contactInfo form div {
+    padding: 12px 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.contactInfo form div input {
+    width: 25vw;
+    border-radius: 5px;
+    margin: 6px 0 0 0;
+    padding: 3px;
+}
+
+#emailHelp {
+    font-size: 14px;
+    color: rgb(91, 2, 91);
+    margin: 0 5px;
+    padding: 3px 0 0 0;
+}
+
+#form-check {
+    flex-direction: row;
+}
+
+#form-check input {
+    width: 20px;
+    margin: 3px 0;
+}
+.buttons button {
+   width: 6vw;
+   
+}
+.buttons{
+    margin-top: 0;
+}
+
+.btn{
+    font-size: 20px;
+   
+}

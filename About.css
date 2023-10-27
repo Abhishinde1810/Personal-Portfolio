@@ -1,0 +1,64 @@
+.container{
+    background-color: black;
+    color: white;
+}
+.devInfo h1,h2{
+    text-align: center;
+    margin-top: 20px;
+}
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    
+}
+
+.devInfo p{
+    margin-top: 20px;
+    text-align: justify;
+    font-size: 20px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.item{
+    display: flex;
+    align-items: center;
+}
+.skill{
+    width: 250px;
+    height: 7px;
+    background-color: blueviolet;
+    border: 2px solid black;
+}
+
+.skillContainer{
+    margin-top: 12px;
+}
+
+.hundred{
+    width: 250px;
+    
+}
+
+.sfive{
+width:179px ;
+background-color:rgb(21, 233, 21) ;
+}
+
+.fifty{
+    width: 125px;
+    background-color: yellowgreen;
+}
+
+.tfive{
+    width: 62px;
+    background-color: rgb(231, 235, 18);
+}
+
+
+
+.project li{
+    list-style: none;
+    padding: 6px;
+    font-size: 20px;
+}
